@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Siya Rana</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<br>
+<br>
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siya8een&label=Profile%20views&color=0e75b6&style=flat" alt="siya8een" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siya8een" alt="siya8een" /></a> </p>
