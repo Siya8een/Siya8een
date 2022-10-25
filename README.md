@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Siya Rana</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">A passionate Programmer and Graphic Designer from India</h3>
 <br>
+<h3 align="center">SKILLS</h3>
+<li>
+<ul>
+C, C++, HTML, CSS, Dart, Illustrator, Inkscape, DSA, AutoCad
+</ul>
+<ul>The ability to work under pressure and multi-task
+
+
+</ul>
+<ul>
+The ability to follow instructions and deliver quality
+results
+</ul>
+<ul>Good Listner with good Observing skills.
+</ul>
+</li>
 <br>
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <br>
