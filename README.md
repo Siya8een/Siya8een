@@ -4,7 +4,8 @@
 <h3 align="center">SKILLS</h3>
 <li>
 
-C, C++, HTML, CSS, Dart, Illustrator, Inkscape, DSA, AutoCad
+C, C++, HTML, CSS, Dart, Illustrator, Inkscape, DSA, AutoCad, Less, pug
+  
 
 The ability to work under pressure and multi-task
 
