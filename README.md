@@ -6,13 +6,13 @@
 
 C, C++, HTML, CSS, Dart, Illustrator, Inkscape, DSA, AutoCad, Less, pug
   
+The ability to work under pressure and multi-task
 
-An enthusiastic Electronics and Communication student at the prestigious National Institute of Technology, Hamirpur. Passionate about app development, graphic design, and content writing, I'm always seeking opportunities to learn and grow. With a positive and proactive approach with ability to follow instructions and deliver quality.
-I embrace challenges, striving for excellence. With a strong foundation in programming languages, design software, and technical skills, I create innovative and visually captivating designs. I'm eager to contribute my skills and expand my knowledge through exciting projects and collaborations. Let's create something remarkable together!
-
+The ability to follow instructions and deliver quality
+results
 
 Good Listner with good Observing skills.
-
+  
 </li>
 <br>
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
@@ -24,7 +24,7 @@ Good Listner with good Observing skills.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **21bec056@gmail.com**
+- 📫 How to reach me **21bec056@nith.ac.in** **siyarana238@gmail.com**
 
 - ⚡ Fun fact **I love to dance and enjoy walking with music**
 
